@@ -10,7 +10,7 @@ http://creativecommons.org/licenses/by-sa/3.0/
 
 R-360 Logo
 ===============
-The R-360 logo is not included! cCan I have your cool logo on my printer? :) 
+The R-360 logo is not included! Can I have your cool logo on my printer? :) 
 R-360 Logo contains our company logo which is trade marked so please do not use unauthorised. The logo is not required for the functionality of the printer, but it makes it look much cooler! ;) If you like to have the full experience and you would like to have our official logo on your printer :) and you would like to support us to continue to develop the R-360 printer, then please donate 5 USD to us and we will allow you to print and use our logo on your printer. :) Drop us an email to admin@replicatorwarehouse.com
 
 Greg's Wade Licence
