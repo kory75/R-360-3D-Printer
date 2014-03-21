@@ -56,7 +56,7 @@ This section is not complet yet, It will be finalised throgh the next few days!
 
 | 8x | M8 Nut |
 | 8x | M8 Washer Shakeproof |
-| 4x | M8 Washer |
+| 5x | M8 Washer |
 | 1x | M8 Nylock Nut |
 | 1x | M8 70mm Hex Bolt |
 
@@ -68,6 +68,7 @@ This section is not complet yet, It will be finalised throgh the next few days!
 | -x | M3 20mm Bolt |
 | -x | M3 30mm Bolt |
 | -x | M3 50mm Hex Bolt |
+| 1x | M5 Nut |
 
 | 1x | M8 Nylock Nut (extruder) |
 | 1x | M8 Hobbed Bolt (extruder) |
@@ -130,6 +131,8 @@ Cable organisers
 3M blue masking tape
 
 Heatshrink 30cm
+
+Power Switch
 
 ##Developers
 
