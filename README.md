@@ -118,7 +118,6 @@ This section is not complet yet, It will be finalised throgh the next few days!
 | 1x | LCD Screen (optional but strongly recomended) | 
 | 1x | Power Supply 12V 5A with 2.5mm round plug and local socket power cable |
 | 1x | 2.5mm solderless socket |
-
 | 1x | USB Cable | 
 | 2x | 3 wire endstop cable | 
 | 4x | 4 wire Motor cables |
@@ -136,7 +135,7 @@ This section is not complet yet, It will be finalised throgh the next few days!
 
 ####Extruder
 
-ActiveX or ActiveX Dual extruders
+ActiveX or ActiveX Dual extruder
 
 ####Other
 
@@ -144,19 +143,12 @@ ActiveX or ActiveX Dual extruders
 | Quantity | Description |
 | ------------- | ----------- |
 | 30x | Zip ties |
-
 | | Cable organisers |
-
 | 1x | GT2 belt mm |
-
 | 1x | GT2 pulley for 5mm shaft |
-
 | 1x | 5mm to mm5 flexible coupling |
-
 | | 3M blue masking tape |
-
 | 30cm | Heatshrink |
-
 | | Power Switch| 
 
 ##Developers
