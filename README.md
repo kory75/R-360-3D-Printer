@@ -61,13 +61,12 @@ This section is not complet yet, It will be finalised throgh the next few days!
 ####Bolts and Nuts And Springs
 
 | Quantity | Description |
-| -------------: | ----------- |
+| ------------- | ----------- |
 | 8x | M8 Nut |
 | 8x | M8 Washer Shakeproof |
 | 5x | M8 Washer |
 | 1x | M8 Nylock Nut |
 | 1x | M8 70mm Hex Bolt |
-
 | 21x | M3 10mm Bolt |
 | 15x | M3 Nuts |
 | 4x | M3 Nylock Nuts |
@@ -79,6 +78,10 @@ This section is not complet yet, It will be finalised throgh the next few days!
 | -x | M3 50mm Hex Bolt |
 | 1x | M5 Nut |
 
+#####Extruder
+
+| Quantity | Description |
+| ------------- | ----------- |
 | 1x | M8 Nylock Nut (extruder) |
 | 1x | M8 Hobbed Bolt (extruder) |
 | 2x | M8 Penny washers (extruder) |
@@ -88,6 +91,10 @@ This section is not complet yet, It will be finalised throgh the next few days!
 | 2x | M4 Washer (extruder) |
 | 1x | M3 25mm Bolt (extruder) |
 
+####Springs
+
+| Quantity | Description |
+| ------------- | ----------- |
 | 4x | Bed Springs |
 | 1x | Extruder Spring (per extruder) |
 
@@ -133,21 +140,24 @@ ActiveX or ActiveX Dual extruders
 
 ####Other
 
-Zip ties
 
-Cable organisers 
+| Quantity | Description |
+| ------------- | ----------- |
+| 30x | Zip ties |
 
-1x GT2 belt mm 
+| | Cable organisers |
 
-1x GT2 pulley for 5mm shaft
+| 1x | GT2 belt mm |
 
-1x 5x5 flexible coupling
+| 1x | GT2 pulley for 5mm shaft |
 
-3M blue masking tape
+| 1x | 5mm to mm5 flexible coupling |
 
-Heatshrink 30cm
+| | 3M blue masking tape |
 
-Power Switch
+| 30cm | Heatshrink |
+
+| | Power Switch| 
 
 ##Developers
 
