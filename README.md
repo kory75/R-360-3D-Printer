@@ -12,6 +12,8 @@ You can find more information and tutorials on the following links:
 
 ###Plastic Parts
 
+| Quantity | Description |
+| ------------- | ----------- |
 | 1x | Centring Tool |
 | 1x | Extruder Holder |
 | 1x | Extruder Holder Extension(Dual head only) |
@@ -37,6 +39,8 @@ You can find more information and tutorials on the following links:
 
 ###Laser Cut Parts
 
+| Quantity | Description |
+| ------------- | ----------- |
 | 1x | disc_full-low |
 | 1x | dixc_full-top |
 
@@ -46,6 +50,8 @@ This section is not complet yet, It will be finalised throgh the next few days!
 
 ####Rods
 
+| Quantity | Description |
+| ------------- | ----------- |
 | 1x | 200mm M8 threaded rod
 | 1x | 250mm M8 threaded rod
 | 1x | 280mm M5 threaded rod
@@ -54,6 +60,8 @@ This section is not complet yet, It will be finalised throgh the next few days!
 
 ####Bolts and Nuts And Springs
 
+| Quantity | Description |
+| -------------: | ----------- |
 | 8x | M8 Nut |
 | 8x | M8 Washer Shakeproof |
 | 5x | M8 Washer |
@@ -62,7 +70,7 @@ This section is not complet yet, It will be finalised throgh the next few days!
 
 | 21x | M3 10mm Bolt |
 | 15x | M3 Nuts |
-| 4x | M3 Nyilock Nuts |
+| 4x | M3 Nylock Nuts |
 | 18x | M3 Washer |
 | -x | M3 12mm bolt |
 | -x | M3 16mm Bolt |
@@ -85,6 +93,8 @@ This section is not complet yet, It will be finalised throgh the next few days!
 
 ####Bearings
 
+| Quantity | Description |
+| ------------- | ----------- |
 | 3x | 608zz |
 | 3x | 623zz |
 | 4x | LM8UU |
@@ -92,6 +102,8 @@ This section is not complet yet, It will be finalised throgh the next few days!
 
 ####Electronics
 
+| Quantity | Description |
+| ------------- | ----------- |
 | 1x | Ramps 1.4 | 
 | 1x | Arduino Mega 2560 |
 | 4x | Polulu A4988 (5 for dual setup) |
@@ -111,6 +123,8 @@ This section is not complet yet, It will be finalised throgh the next few days!
 
 ####Motors
 
+| Quantity | Description |
+| ------------- | ----------- |
 | 4x | Nema 17 (4.4kg torque) shaft flatened on one side (~1mm) |
 
 ####Extruder
