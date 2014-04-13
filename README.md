@@ -146,9 +146,9 @@ ActiveX or ActiveX Dual extruder
 | 20x | Zip ties |
 | 1m | Cable organiser 1cm diameter |
 | 200mm | Cable organiser 2cm diameter |
-| 1x | GT2 belt 400mm |
+| 450mm | GT2 belt |
 | 1x | GT2 pulley for 5mm shaft |
-| 1x | 5mm to mm5 flexible coupling |
+| 1x | 5mm to 5mm flexible coupling |
 | | 3M blue masking tape |
 | 400mm | Heatshrink inner diameter: 2.5mm |
 | 1x | 12V Power Switch | 
