@@ -47,6 +47,7 @@ You can find more information and tutorials on the following links:
 ###Vitamins
 
 This section is not complet yet, It will be finalised throgh the next few days!
+We use allen bolts as as standard. We marked the other types when it is diviates (like Hex Head).
 
 ####Rods
 
@@ -66,7 +67,7 @@ This section is not complet yet, It will be finalised throgh the next few days!
 | 8x | M8 Washer Shakeproof |
 | 5x | M8 Washer |
 | 1x | M8 Nylock Nut |
-| 1x | M8 70mm Hex Bolt |
+| 1x | M8 70mm Hex head Bolt |
 | 21x | M3 10mm Bolt |
 | 15x | M3 Nuts |
 | 4x | M3 Nylock Nuts |
@@ -75,10 +76,10 @@ This section is not complet yet, It will be finalised throgh the next few days!
 | -x | M3 16mm Bolt |
 | -x | M3 20mm Bolt |
 | -x | M3 30mm Bolt |
-| -x | M3 50mm Hex Bolt |
+| -x | M3 50mm Hex head Bolt |
 | 1x | M5 Nut |
 
-#####Extruder
+#####Extruder Bolts and Nuts
 
 | Quantity | Description |
 | ------------- | ----------- |
@@ -95,8 +96,8 @@ This section is not complet yet, It will be finalised throgh the next few days!
 
 | Quantity | Description |
 | ------------- | ----------- |
-| 4x | Bed Springs |
-| 1x | Extruder Spring (per extruder) |
+| 4x | Bed Springs lenght: 13mm inner diameter: 3.15mm |
+| 1x | Extruder Spring (per extruder) lenght: 15mm inner diameter: 4.2mm |
 
 ####Bearings
 
@@ -142,14 +143,15 @@ ActiveX or ActiveX Dual extruder
 
 | Quantity | Description |
 | ------------- | ----------- |
-| 30x | Zip ties |
-| | Cable organisers |
-| 1x | GT2 belt mm |
+| 20x | Zip ties |
+| 1m | Cable organiser 1cm diameter |
+| 200mm | Cable organiser 2cm diameter |
+| 1x | GT2 belt 400mm |
 | 1x | GT2 pulley for 5mm shaft |
 | 1x | 5mm to mm5 flexible coupling |
 | | 3M blue masking tape |
-| 30cm | Heatshrink |
-| | Power Switch| 
+| 400mm | Heatshrink inner diameter: 2.5mm |
+| 1x | 12V Power Switch | 
 
 ##Developers
 
