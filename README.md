@@ -60,9 +60,10 @@ This section is not complet yet, It will be finalised throgh the next few days!
 | 1x | M8 Nylock Nut |
 | 1x | M8 70mm Hex Bolt |
 
-| 11x | M3 10mm Bolt |
-| -x | M3 Nuts |
-| -x | M3 Washer |
+| 21x | M3 10mm Bolt |
+| 15x | M3 Nuts |
+| 4x | M3 Nyilock Nuts |
+| 18x | M3 Washer |
 | -x | M3 12mm bolt |
 | -x | M3 16mm Bolt |
 | -x | M3 20mm Bolt |
