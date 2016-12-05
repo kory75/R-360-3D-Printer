@@ -17,11 +17,12 @@ You can find more information and tutorials on the following links:
 | 1x | Centring Tool |
 | 1x | Extruder Holder |
 | 1x | Extruder Holder Extension(Dual head only) |
-| 1x | Extruder inlet(one is enough, but we recomend to have 3) |
+| 1x | Extruder inlet(one is enough, but we recommend to have 3) |
 | 1x | Extruder large gear |
 | 1x | Extruder small gear |
-| 3x | Leveler |
-| 1x | X-carrige |
+| 3x | Leveller |
+| 1x | X-carriage |
+| 1x | X-endstop-holder |
 | 1x | X-end |
 | 1x | X motor holder |
 | 1x | Y-axes large gear |
@@ -46,7 +47,6 @@ You can find more information and tutorials on the following links:
 
 ###Vitamins
 
-This section is not complet yet, It will be finalised throgh the next few days!
 We use allen bolts as as standard. We marked the other types when it is diviates (like Hex Head).
 
 ####Rods
@@ -64,7 +64,7 @@ We use allen bolts as as standard. We marked the other types when it is diviates
 | Quantity | Description |
 | ------------- | ----------- |
 | 8x | M8 Nut |
-| 8x | M8 Washer Shakeproof |
+| 8x | M8 Washer Shake-proof |
 | 5x | M8 Washer |
 | 1x | M8 Nylock Nut |
 | 1x | M8 70mm Hex head Bolt |
@@ -96,8 +96,8 @@ We use allen bolts as as standard. We marked the other types when it is diviates
 
 | Quantity | Description |
 | ------------- | ----------- |
-| 4x | Bed Springs lenght: 13mm inner diameter: 3.15mm |
-| 1x | Extruder Spring (per extruder) lenght: 15mm inner diameter: 4.2mm |
+| 4x | Bed Springs length: 13mm inner diameter: 3.15mm |
+| 1x | Extruder Spring (per extruder) length: 15mm inner diameter: 4.2mm |
 
 ####Bearings
 
@@ -116,7 +116,7 @@ We use allen bolts as as standard. We marked the other types when it is diviates
 | 1x | Arduino Mega 2560 |
 | 4x | Polulu A4988 (5 for dual setup) |
 | 2x | Mechanical Endstops |
-| 1x | LCD Screen (optional but strongly recomended) | 
+| 1x | LCD Screen (optional but strongly recommended) | 
 | 1x | Power Supply 12V 5A with 2.5mm round plug and local socket power cable |
 | 1x | 2.5mm solderless socket |
 | 1x | USB Cable | 
@@ -125,14 +125,14 @@ We use allen bolts as as standard. We marked the other types when it is diviates
 | 1x | 2 wire Heater cartridge (per extruder) | 
 | 1x | 2 wire Fan (per extruder) | 
 | 1x | 2 wire Thermostate Cable (per extruder) | 
-| 1x | 2 wire Electronins Cooling Fan | 
+| 1x | 2 wire Electronics Cooling Fan | 
 
 
 ####Motors
 
 | Quantity | Description |
 | ------------- | ----------- |
-| 4x | Nema 17 (4.4kg torque) shaft flatened on one side (~1mm) |
+| 4x | Nema 17 (4.4kg torque) shaft flattened on one side (~1mm) |
 
 ####Extruder
 
@@ -150,7 +150,7 @@ ActiveX or ActiveX Dual extruder
 | 1x | GT2 pulley for 5mm shaft |
 | 1x | 5mm to 5mm flexible coupling |
 | | 3M blue masking tape |
-| 400mm | Heatshrink inner diameter: 2.5mm |
+| 400mm | Heat-shrink inner diameter: 2.5mm |
 | 1x | 12V Power Switch | 
 
 ##Developers
@@ -169,10 +169,10 @@ Website: Replicatorwarehouse.com
 
 ####Greg's Wade Licence
 
-The included and modified extruder parts are based on Gregs Wade extruder.
+The included and modified extruder parts are based on Greg's Wade extruder.
 Greg's Wade Extruder is licensed under the Creative Commons - GNU GPL license. 
 2010 by GregFrost
-Extruder based on prusa git repo.
+Extruder based on Prusa git repo.
 http://www.thingiverse.com/thing:6713
 
 ####R-360 Logo
