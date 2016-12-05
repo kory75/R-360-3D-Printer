@@ -72,11 +72,12 @@ We use allen bolts as as standard. We marked the other types when it is diviates
 | 15x | M3 Nuts |
 | 4x | M3 Nylock Nuts |
 | 18x | M3 Washer |
-| -x | M3 12mm bolt |
-| -x | M3 16mm Bolt |
-| -x | M3 20mm Bolt |
-| -x | M3 30mm Bolt |
-| -x | M3 50mm Hex head Bolt |
+| 1x | M3 12mm bolt |
+| 1x | M3 16mm Bolt |
+| 8x | M3 20mm Bolt |
+| 3x | M3 30mm Bolt |
+| 1x | M3 40mm Bolt |
+| 2x | M3 50mm Hex head Bolt |
 | 1x | M5 Nut |
 
 #####Extruder Bolts and Nuts
